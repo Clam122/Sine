@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# What is Sine?
 
-You can use the [editor on GitHub](https://github.com/Clam122/Sine/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Sine is a multifunctional discord bot which uses last.fm data to compare users' music taste. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Why Sine?
 
-### Markdown
+**Why not.**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+On a more serious note, Sine is largely a personal project, none of what Sine aims to accomplish is a commercial goal, and I will not be making money from sine. 
 
-```markdown
-Syntax highlighted code block
+**How to get Sine**
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Clam122/Sine/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Sine is currently under heavy development, as such there may not be a public release for some time, but once a semi-stable beta is made, I will be releasing sine-beta, which will allow you to test functionality and send in bug reports! Patience, young padawan. 
